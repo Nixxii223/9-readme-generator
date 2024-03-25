@@ -1,31 +1,41 @@
-# README Generator
+# 20-React-Portfolio
   
   ## Description
-  This application is used to create a quality README through the use of node. 
+  I created this application as a means of demonstrating my web development skills and providing a platform for potential employers to see my resume and contact me.
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Credits](#credits)
+  * [Badges](#badges)
+  * [Features](#features)
+  * [Tests](#tests)
   
   ## Installation
-  This application requires Node and the  Inquirer package  version 8.2.4 . You can type in 'npm i' and then  'npm i inquirer@8.2.4' to your command line to install.
+  N/A
 
   ## Usage
-  Use this application to create a quick, high-quality README in markdown to be added to your repositories. 
+  Use the navigation bar to toggle between the About Me, Portfolio, Resume and Contact pages.
 
-  ![image](https://github.com/nickib223/9-readme-generator/assets/146459728/bc531054-1cd4-420c-b004-f2a0ad72b23c)
-  https://drive.google.com/file/d/1VSat9uV-p6YlmqWQLVBlWEBrwb4aY2G7/viewLinks to an external site.
+  
+## License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ## License
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 
   ## Credits
-  N/A
+  I received help during tutoring sessions with Jaytee Padilla.
 
+
+  ## Badges 
+  
+
+  ## Features
+  
+
+  ## Tests
+  
 
   
